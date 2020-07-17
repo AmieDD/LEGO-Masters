@@ -13,6 +13,14 @@ LEGO designs and build instructions by AmieDD
 
 - [Unicorn Rainbow Brick](master/Unicorn%20Rainbow)
 
+### [LEGO Masters Fox Minibuilds](/LEGO%20Masters%20Fox%20Mini%20Builds)
+
+- [Episode 1 - Fairy Wonderland](/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%201%20-%20Fairy%20Wonderland)
+- [Episode 2 - Planet Vulcania](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%202%20-%20Planet%20Vulcania)
+- [Episode 3 - Global Dragons](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%203%20-%20Global%20Dragons)
+- [Episode 4 - Old Wild Will](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%204%20-%20Old%20Wild%20Will)
+- [Episode 5 - Cyberpunk City](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%205%20-%20Cyberpunk%20City)
+
 ### LEGO Mindstorms Robotics EV3
 
 
