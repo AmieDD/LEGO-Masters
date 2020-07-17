@@ -1,2 +1,2 @@
-# LEGO-Masters
+# LEGO Masters
 LEGO designs and build instructions
