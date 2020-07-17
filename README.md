@@ -2,7 +2,19 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-LEGO designs and build instructions
+LEGO designs and build instructions by AmieDD
+
+### LEGO Space
+
+- [LEGO Satellite](master/LEGO%20Satellite)
+- [UFO](master/Spinning%20UFO)
+
+### Unicorns and Rainbows
+
+- [Unicorn Rainbow Brick](master/Unicorn%20Rainbow)
+
+### LEGO Mindstorms Robotics EV3
+
 
 ## Contributors ✨
 
