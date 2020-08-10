@@ -8,6 +8,7 @@ LEGO designs and build instructions by AmieDD
 
 - [LEGO Satellite](master/LEGO%20Satellite)
 - [UFO](master/Spinning%20UFO)
+- [Star Fleet Rank Pin](master/LEGO%20Star%20Trek%20Fleet%20Pin)
 
 ### Unicorns and Rainbows
 
