@@ -10,6 +10,10 @@ LEGO designs and build instructions by AmieDD
 - [UFO](master/Spinning%20UFO)
 - [Star Fleet Rank Pin](master/LEGO%20Star%20Trek%20Fleet%20Pin)
 
+### LEGO Ships
+
+- [Pink Pirate Ship](master/LEGO%20Pink%20Pirate)
+
 ### Unicorns and Rainbows
 
 - [Unicorn Rainbow Brick](master/Unicorn%20Rainbow)
