@@ -8,36 +8,36 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 
 ### LEGO Space
 
-- [LEGO Satellite](master/LEGO%20Satellite)
-- [UFO](master/Spinning%20UFO)
-- [Star Fleet Rank Pin](master/LEGO%20Star%20Trek%20Fleet%20Pin)
+- [LEGO Satellite](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Satellite)
+- [UFO](https://github.com/AmieDD/LEGO-Masters/tree/master/Spinning%20UFO)
+- [Star Fleet Rank Pin](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Star%20Trek%20Fleet%20Pin)
 
 ### LEGO Ships
 
-- [Pink Pirate Ship](master/LEGO%20Pink%20Pirate)
+- [Pink Pirate Ship](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Pink%20Pirate)
 
 ### Unicorns and Rainbows
 
-- [Unicorn Rainbow Brick](master/Unicorn%20Rainbow)
+- [Unicorn Rainbow Brick](https://github.com/AmieDD/LEGO-Masters/tree/master/Unicorn%20Rainbow)
 
-### [LEGO Masters Fox Minibuilds](/LEGO%20Masters%20Fox%20Mini%20Builds)
+### [LEGO Masters Fox Minibuilds](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds)
 
-- [Episode 1 - Fairy Wonderland](/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%201%20-%20Fairy%20Wonderland)
-- [Episode 2 - Planet Vulcania](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%202%20-%20Planet%20Vulcania)
-- [Episode 3 - Global Dragons](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%203%20-%20Global%20Dragons)
-- [Episode 4 - Old Wild Will](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%204%20-%20Old%20Wild%20Will)
-- [Episode 5 - Cyberpunk City](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%205%20-%20Cyberpunk%20City)
+- [Episode 1 - Fairy Wonderland](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%201%20-%20Fairy%20Wonderland)
+- [Episode 2 - Planet Vulcania](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%202%20-%20Planet%20Vulcania)
+- [Episode 3 - Global Dragons](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%203%20-%20Global%20Dragons)
+- [Episode 4 - Old Wild Will](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%204%20-%20Old%20Wild%20Will)
+- [Episode 5 - Cyberpunk City](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%205%20-%20Cyberpunk%20City)
 
 ### LEGO AmieDD Social Media Icons
 
-- [Instagram](/master/LEGO%20AmieDD%20Instagram)
+- [Instagram](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20AmieDD%20Instagram)
 - Twitter
 - Github
 - Youtube
 
 ### LEGO Apothecary Items
 
-- [LEGO of Time Stopper](/master/LEGO%20of%20Time)
+- [LEGO of Time Stopper](https://github.com/AmieDD/LEGO-Masters/tree//master/LEGO%20of%20Time)
 
 ### LEGO Mindstorms Robotics EV3
 
