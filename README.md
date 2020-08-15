@@ -4,6 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 LEGO designs and build instructions by AmieDD
 
+All designs created by AmieDD using Bricklink Studio Design Software. 
+
 ### LEGO Space
 
 - [LEGO Satellite](master/LEGO%20Satellite)
@@ -26,8 +28,22 @@ LEGO designs and build instructions by AmieDD
 - [Episode 4 - Old Wild Will](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%204%20-%20Old%20Wild%20Will)
 - [Episode 5 - Cyberpunk City](/master/LEGO%20Masters%20Fox%20Mini%20Builds/Episode%205%20-%20Cyberpunk%20City)
 
+### LEGO AmieDD Social Media Icons
+
+- [Instagram](/master/LEGO%20AmieDD%20Instagram)
+- Twitter
+- Github
+- Youtube
+
+### LEGO Apothecary Items
+
+-[LEGO of Time Stopper](/master/LEGO%20of%20Time)
+
 ### LEGO Mindstorms Robotics EV3
 
+
+#### How to Open Design Files
+To open the design **.io** files you need to download **Studio** from [Bricklink](https://www.bricklink.com/v3/studio/download.page).
 
 ## Contributors ✨
 
