@@ -37,7 +37,7 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 
 ### LEGO Apothecary Items
 
--[LEGO of Time Stopper](/master/LEGO%20of%20Time)
+- [LEGO of Time Stopper](/master/LEGO%20of%20Time)
 
 ### LEGO Mindstorms Robotics EV3
 
