@@ -11,6 +11,7 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 - [LEGO Satellite](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Satellite)
 - [UFO](https://github.com/AmieDD/LEGO-Masters/tree/master/Spinning%20UFO)
 - [Star Fleet Rank Pin](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Star%20Trek%20Fleet%20Pin)
+- [LEGO DOTS Classic Space](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20DOTS%20Classic%20Space)
 
 ### LEGO Ships
 
