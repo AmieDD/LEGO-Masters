@@ -35,6 +35,7 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 - Twitter
 - Github
 - Youtube
+- [Microsoft](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Microsoft%20Logo)
 
 ### LEGO Apothecary Items
 
