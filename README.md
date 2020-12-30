@@ -41,6 +41,11 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 
 - [LEGO of Time Stopper](https://github.com/AmieDD/LEGO-Masters/tree//master/LEGO%20of%20Time)
 
+### LEGO Mini Workshop Tools
+
+- [LEGO 3D Printer](https://github.com/AmieDD/LEGO-Masters/blob/master/LEGO%20Workshop%20Mini%20Tools/AmieDD%20LEGO%203D%20Printer.png)
+- [LEGO CNC Router]()
+
 ### LEGO Mindstorms Robotics EV3
 
 
