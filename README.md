@@ -48,6 +48,8 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 
 ### LEGO Mindstorms Robotics EV3
 
+### LEGO Star Wars
+- [LEGO Tauntaun](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Tauntaun)
 
 #### How to Open Design Files
 To open the design **.io** files you need to download **Studio** from [Bricklink](https://www.bricklink.com/v3/studio/download.page).
