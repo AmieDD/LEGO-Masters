@@ -51,6 +51,9 @@ All designs created by AmieDD using Bricklink Studio Design Software.
 ### LEGO Star Wars
 - [LEGO Tauntaun](https://github.com/AmieDD/LEGO-Masters/tree/master/LEGO%20Tauntaun)
 
+### LEGO How To Train Your Dragon
+- [LEGO Hiccup Helmet](https://github.com/AmieDD/LEGO-Masters/blob/master/LEGO-How-To-Train-Your-Dragon/hiccup.md)
+
 #### How to Open Design Files
 To open the design **.io** files you need to download **Studio** from [Bricklink](https://www.bricklink.com/v3/studio/download.page).
 
